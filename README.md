@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ali Egemen Tasoren
-- 👀 I’m interested in ...
+- 👀 I’m interested in various applications of Computer Vision for real-world tasks!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 egemen.tasoren@tedu.edu.tr
+- 📫 
 
 <!---
 taliegemen/taliegemen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
