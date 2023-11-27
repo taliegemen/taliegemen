@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Egemen Tasoren
 - 👀 I’m interested in various applications of Computer Vision for real-world tasks!
-- 🌱 I’m currently learning about ways of tracking, especially Tracking by Detection (TbD).
+- 🌱 I’m currently learning about ways of tracking objects, especially Tracking by Detection (TbD).
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
